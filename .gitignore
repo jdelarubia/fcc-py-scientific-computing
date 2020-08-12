@@ -17,6 +17,7 @@ node_modules/
 *.old*.*
 *.back*.*
 add_tests.py
+notes.md
 
 # compressed files
 *.zip
