@@ -4,3 +4,4 @@
 
 -   [arithmetic formatter](./01-arithmetic-formatter/README.md)
 -   [budget app](./02-budget-app/README.md)
+-   [polygon area calculator](./03-polygon-area-calculator/README.md)
