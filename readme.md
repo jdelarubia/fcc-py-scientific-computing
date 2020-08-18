@@ -6,3 +6,4 @@
 -   [budget app](./02-budget-app/README.md)
 -   [polygon area calculator](./03-polygon-area-calculator/README.md)
 -   [probability calculator](./04-probability-calculator/README.md)
+-   [time calculator](./05-time-calculator/README.md)

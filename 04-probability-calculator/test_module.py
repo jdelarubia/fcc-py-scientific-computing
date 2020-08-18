@@ -32,7 +32,7 @@ class UnitTests(unittest.TestCase):
         """IMPORTANT.
         I had to increase the number of tests to reach
         expected value +- delta"""
-        num_tests = 4000  # 1000
+        num_tests = 2900  # 1000
 
         hat = prob_calculator.Hat(blue=3, red=2, green=6)
         probability = prob_calculator.experiment(
